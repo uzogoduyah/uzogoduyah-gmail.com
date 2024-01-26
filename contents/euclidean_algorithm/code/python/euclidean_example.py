@@ -1,0 +1,33 @@
+def euclid_mod(a, b):
+
+    a = abs(a)
+    b = abs(b)
+
+    while b > 0:
+        a, b = b, a % b
+
+    return a
+
+def euclid_sub(a, b):
+
+    a = abs(a)
+    b = abs(b)
+
+    if a == 0:
+        return b
+    elif b == 0:
+        return a
+
+    while a != b:
+        if a > b:
+            a -= b
+        else:
+            b -= a
+
+    return a
+
+if __name__=="__main__":
+    print('[#]\nModulus-based euclidean algorithm result:'),
+    print(euclid_mod(64 * 67, 64 * 81))
+    print('[#]\nSubtraction-based euclidean algorithm result:')
+    print(euclid_sub(128 * 12, 128 * 77))

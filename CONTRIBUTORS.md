@@ -1,0 +1,67 @@
+This file lists everyone, who contributed to this repo and wanted to show up here. If you're looking for information on contribution, please check the `CONTRIBUTING.md` out.
+
+# Contributors
+
+- James Schloss
+- Nicole Mazzuca
+- Marius Becker
+- Gathros
+- Jeremie Gillet (- Jie -)
+- Salim Khatib
+- Hitesh C
+- Shaurya
+- Maxime Dherbécourt
+- Jess 3Jane
+- Pen Pal
+- Chinmaya Mahesh
+- Unlambder
+- Kjetil Johannessen
+- CDsigma
+- Gammison
+- hsjoihs
+- DominikRafacz
+- lulucca12
+- GuyPozner
+- William Boyles
+- Max Weinstein
+- Gibus Wearing Brony
+- Gorzoid
+- Arun Sahadeo
+- NIFR91
+- Michal Hanajik
+- Bendik Samseth
+- mukundan314
+- Trashtalk
+- Cyrus Burt
+- Patrik Tesarik
+- Ken Power
+- PaddyKe
+- nic-hartley
+- Thijs Raymakers
+- crafter312
+- Christopher Milan
+- Vexatos
+- Raven-Blue Dragon
+- Björn Heinrichs
+- Olav Sundfør
+- Ben Chislett
+- dovisutu
+- Antetokounpo
+- Akash Dhiman
+- Vincent Zalzal
+- Jonathan D B Van Schenck
+- James Goytia
+- Sammy Plat
+- Jonathan Dönszelmann
+- Ishaan Verma
+- Delphi1024
+- ntindle
+- Mahdi Sarikhani
+- Ridham177
+- Hugo Salou
+- Dimitri Belopopsky
+- Henrik Abel Christensen
+- K. Shudipto Amin
+- Peanutbutter_Warrior
+- Thijs Raymakers 
+- Michael Ciccotosto-Camp
